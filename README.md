@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI-Powered Student Expense Tracker
 
 React + Vite + Recharts dashboard based on the project documentation.
@@ -5,7 +6,21 @@ React + Vite + Recharts dashboard based on the project documentation.
 ## Run
 ```bash
 npm install
-npm run dev     # open http://localhost:5173
+npm run dev     # open http://localhost:5173# Student Expense Tracker
+
+A React application to track and manage student expenses.
+
+## Features
+- Add and manage expenses
+- View expense records
+- Organize student spending information
+
+## Technologies
+- React.js
+- JavaScript
+- HTML
+- CSS
+
 npm run build   # production build
 ```
 
@@ -24,3 +39,7 @@ npm run build   # production build
 - Milestone 3: Supabase auth + database + Row Level Security
 - Milestone 4: replace the local logic in `components/AIInsights.jsx` with a call to a
   server-side endpoint (never put AI API keys in React code)
+=======
+# student-expenses
+repository contains all the calculations and students expenses and some suggestions how to manage their expenses and where to spend more and where to spend less.
+>>>>>>> d8f46b7b6dae325aef66a06214f58836b1df73c2
